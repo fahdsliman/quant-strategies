@@ -125,3 +125,4 @@ class TheKineticTitan(Algorithm):
         elif target_asset == self.erx: state = 2
         self.plot("Titan", "Asset", state)
 
+
